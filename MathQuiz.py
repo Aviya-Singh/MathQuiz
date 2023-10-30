@@ -28,8 +28,8 @@ def getUserSolution(problem):
     return result
 
 def getProblem(operation):
-    num1=random.randint(1,10)
-    num2=random.randint(1,10)
+    num1=random.randint(1,100)
+    num2=random.randint(1,100)
     if operation==1:
         problem=(f"{num1}+{num2}")
         solution=num1+num2
