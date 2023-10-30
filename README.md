@@ -1,2 +1,2 @@
 # MathQuiz
-This Python program is a simple math quiz game. It allows the user to choose from a menu of mathematical operations (addition, subtraction, multiplication, and division) and then presents random math problems based on the selected operation. 
+This Python program is a simple math quiz game. It allows the user to choose from a menu of mathematical operations (addition, subtraction, multiplication, and division) and then presents random math problems based on the selected operation. The user must solve these problems, and the program will provide feedback on whether their answers are correct or not. The program keeps track of the number of correct answers, the total number of questions asked, and the percentage of questions answered correctly.
